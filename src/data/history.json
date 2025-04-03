@@ -1,0 +1,31 @@
+
+
+[
+    {
+      "role": "Client Services & Sales Associate",
+      "organisation": "HOP Energy LLC",
+      "startDate": "Sept, 2021",
+      "endDate": "Present",
+      "experiences": ["Contributed to a 32% reduction in customer service complaints", "Designed & implemented a new CRM system"],
+      "imageSrc": "../assets/google.png"
+    },
+    {
+      "role": "Field Sales Consultant",
+      "organisation": "Sunrun",
+      "startDate": "Aug, 2018",
+      "endDate": "Aug, 2021",
+      "experiences": ["Developed & executed strategic territory plans", "Conducted over 200 in-home presentations"],
+      "imageSrc": "history/microsoft.png"
+    },
+    {
+      "role": "Marketing Program Coordinator",
+      "organisation": "Johnstone Supply",
+      "startDate": "Apr, 2015",
+      "endDate": "Jun, 2017",
+      "experiences": [
+        "Designed comprehensive guidebooks for marketing initiatives",
+        "Pitched marketing programs to over 100 dealers"
+      ],
+      "imageSrc": "history/netflix.png"
+    }
+  ]

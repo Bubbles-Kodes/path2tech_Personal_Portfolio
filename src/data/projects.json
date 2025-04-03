@@ -1,0 +1,28 @@
+
+[
+    {
+      "title": "Email Template",
+      "Project": "Project",
+      "description": "This is a project made to learn HTML & CSS languages by building an Email Template.",
+      "skills": ["HTML", "CSS"],
+      "demo": "https://email-template-css.netlify.app/",
+      "source": "https://github.com/Bubbles-Kodes/path2tech_CSS_Assigment",
+      "imageName": "/personal_portfolio/my-portfolio/src/assets/projects/"
+    },
+    {
+      "title": "Weather App",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn REACT by building a weather app.",
+      "skills": ["React", "Express", "Node", "CSS"],
+      "demo": "https://weather-app-react-bubbles-kodes.netlify.app/",
+      "source": "https://github.com/Bubbles-Kodes/path2tech_REACT_Assigment"
+    },
+    {
+      "title": "Food App",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn REACT by building a food delivery app.",
+      "skills": ["Figma", "CSS", "React", "Express", "Node"],
+      "demo": "https://food-app-react-bubbles-kodes.netlify.app/",
+      "source": "https://github.com/Bubbles-Kodes/path2tech_CAPSTONE_Assigment"
+    }
+  ]
